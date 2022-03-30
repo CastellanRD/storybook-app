@@ -58,6 +58,7 @@
     "@storybook/preset-create-react-app": "^4.0.2",
     "@storybook/react": "^6.4.19",
     "@storybook/testing-library": "0.0.9",
+    "chromatic": "^6.5.3",
     "webpack": "^5.70.0"
   }
 }
