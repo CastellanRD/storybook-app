@@ -6,7 +6,7 @@
   cursor: pointer;
   display: inline-block;
   line-height: 1;
-  border: 10px solid red;
+  border: 10px solid blue;
   font-size: 20px;
 }
 .storybook-button--primary {
